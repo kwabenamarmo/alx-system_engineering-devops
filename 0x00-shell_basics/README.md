@@ -1,2 +1,1 @@
-#Shell Scripting 101
-## all about shell scripting commands
+Shell scripting 101
